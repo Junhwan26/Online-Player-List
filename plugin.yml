@@ -1,0 +1,4 @@
+name: PlayerList
+version: 1.0
+author: junhwan
+main: org.junhwan.main.Main
